@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2021...<br>📚 Engenharia de Software...<br>🎲 Fato curioso: Feijão por cima do arroz...</p>
+<p align="left">✨ Criando bugs desde 2021...<br>📚 Engenharia de Software...<br>🎲 Fato curioso: Toco violão e contrabaixo...</p>
 
 ###
 
